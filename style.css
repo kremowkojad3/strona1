@@ -47,7 +47,7 @@
   
   .contact-form-input:focus {
     color: #030303;
-    border: 0.1rem solid #d699e6;
+    border: 0.1rem solid #0d0b0e;
   }
   
   .contact-form-input::placeholder {
